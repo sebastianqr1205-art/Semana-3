@@ -1,1 +1,8 @@
-
+¿Qué es Git?
+B. Un sistema de control de versiones para registrar cambios en proyectos
+¿Cuál es la función principal de un repositorio?
+B. Registrar y organizar los archivos y cambios de un proyecto
+¿Qué hace el comando git add .?
+B. Agrega archivos al área de preparación para registrar cambios
+¿Qué hace el comando git commit?
+A. Guarda un registro de cambios realizados en el proyecto
